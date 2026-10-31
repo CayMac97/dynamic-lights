@@ -1,0 +1,11 @@
+[package]
+name = "horizon-mod-dynamic-lights"
+version = "1.0.0"
+edition = "2024"
+license = "MIT"
+authors = ["CayMac"]
+description = "Dynamic Lights for Horizon — 1:1 LambDynamicLights with handheld torches, water-sensitive extinguishing, glowing mobs, and dropped item lighting."
+repository = "https://github.com/CayMac97/dynamic-lights"
+
+[lib]
+path = "src/lib.rs"

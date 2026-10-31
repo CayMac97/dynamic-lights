@@ -1,0 +1,18 @@
+schema = 1
+id = "dynamic_lights"
+name = "Dynamic Lights"
+version = "1.0.0"
+description = "1:1 LambDynamicLights: handheld torches, lanterns, glowing items, dropped items, and glowing/burning entities illuminate their surroundings with water-sensitive extinguishing."
+authors = ["CayMac"]
+license = "MIT"
+repository = "https://github.com/CayMac97/dynamic-lights"
+icon = ""
+
+[environment]
+client = "required"
+server = "unsupported"
+
+[compatibility]
+game = ["26.3"]
+horizon = ">=0.2.0-nightly.2026.10.28"
+api = 1
